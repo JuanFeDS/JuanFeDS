@@ -7,7 +7,7 @@ Soy científico e ingeniero de datos, curioso por naturaleza y apasionado por ap
 
 Estoy decidido a convertirme en el **mejor científico de datos de Colombia** (y bueno... tal vez de Latinoamérica, aún lo estoy pensando 🌎😅).
 
-![JuanFeA98 GitHub stats](https://github-readme-stats.vercel.app/api?username=juanfea98&theme=dark&hide=contribs,prs&show_icons=True)
+![JuanFeA98 GitHub stats](https://github-readme-stats.vercel.app/api?username=juanfeds&theme=dark&hide=contribs,prs&show_icons=True)
 
 ## 💻 My Stack
   
