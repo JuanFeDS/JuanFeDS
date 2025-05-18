@@ -1,7 +1,7 @@
 # Hola, soy JuanFe 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Juan_Felipe_Martinez-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juanfe-martínez/  "Connect on LinkedIn") [![Gmail Badge](https://img.shields.io/badge/-jmartinezbernal02@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jmartinezbernal02@gmail.com  "Connect via Email") [![Medium Badge](https://img.shields.io/badge/JuanFe_Martinez-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@juanfe98  "Follow on Medium")
 
-Soy científico e ingeniero de datos de Colombia, curioso por naturaleza y apasionado por aprender 📚, construir 🛠️ y compartir 🔄.
+Soy científico e ingeniero de datos, curioso por naturaleza y apasionado por aprender 📚, construir 🛠️ y compartir 🔄.
 
 Empecé mi camino en el mundo de los datos hace algunos años, y desde entonces no he parado de explorar. Hoy formo parte del equipo de **Mercado Libre** 🛒, donde combino ciencia de datos e ingeniería para resolver problemas reales a gran escala.
 
