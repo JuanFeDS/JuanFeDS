@@ -3,7 +3,7 @@
 
 Soy científico e ingeniero de datos, curioso por naturaleza y apasionado por aprender 📚, construir 🛠️ y compartir 🔄.
 
-Empecé mi camino en el mundo de los datos hace algunos años, y desde entonces no he parado de explorar. Hoy formo parte del equipo de **Mercado Libre** 🛒, donde combino ciencia de datos e ingeniería para resolver problemas reales a gran escala.
+📍 Empecé mi camino en el mundo de los datos hace algunos años, y desde entonces no he parado de explorar. He tenido la fortuna de trabajar en WOM 📱 como Data Scientist, donde contribuí a construir soluciones enfocadas en el valor del cliente dentro del mundo de las telecomunicaciones. Hoy soy parte del equipo de Mercado Libre 🛒, donde combino ciencia de datos e ingeniería para resolver problemas reales a gran escala.
 
 Estoy decidido a convertirme en el **mejor científico de datos de Colombia** (y bueno... tal vez de Latinoamérica, aún lo estoy pensando 🌎😅).
 
