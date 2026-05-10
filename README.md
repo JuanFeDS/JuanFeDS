@@ -5,7 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juanfe-martínez/">
+  <a href="https://juanfeds.com">
+    <img src="https://img.shields.io/badge/🌐_juanfeds.com-000000?style=for-the-badge&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/juanfe-martinez/">
     <img src="https://img.shields.io/badge/LinkedIn-Juan_Felipe_Martinez-0072b1?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:jmartinezbernal02@gmail.com">
