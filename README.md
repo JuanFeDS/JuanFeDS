@@ -1,13 +1,75 @@
-# Hola, soy JuanFe 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Juan_Felipe_Martinez-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juanfe-martínez/  "Connect on LinkedIn") [![Gmail Badge](https://img.shields.io/badge/-jmartinezbernal02@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jmartinezbernal02@gmail.com  "Connect via Email") [![Medium Badge](https://img.shields.io/badge/JuanFe_Martinez-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@juanfe98  "Follow on Medium")
+<h1 align="center">Hola, soy Juan Felipe 👋</h1>
 
-Soy científico e ingeniero de datos, curioso por naturaleza y apasionado por aprender 📚, construir 🛠️ y compartir 🔄.
+<p align="center">
+  <strong>Data Scientist & Engineer @ Mercado Libre</strong>
+</p>
 
-📍 Empecé mi camino en el mundo de los datos hace algunos años, y desde entonces no he parado de explorar. He tenido la fortuna de trabajar en WOM 📱 como Data Scientist, donde contribuí a construir soluciones enfocadas en el valor del cliente dentro del mundo de las telecomunicaciones. Hoy soy parte del equipo de Mercado Libre 🛒, donde combino ciencia de datos e ingeniería para resolver problemas reales a gran escala.
+<p align="center">
+  <a href="https://www.linkedin.com/in/juanfe-martínez/">
+    <img src="https://img.shields.io/badge/LinkedIn-Juan_Felipe_Martinez-0072b1?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jmartinezbernal02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-jmartinezbernal02-c14438?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@juanfe98">
+    <img src="https://img.shields.io/badge/Medium-@juanfe98-12100E?style=flat&logo=medium&logoColor=white"/>
+  </a>
+</p>
 
-Estoy decidido a convertirme en el **mejor científico de datos de Colombia** (y bueno... tal vez de Latinoamérica, aún lo estoy pensando 🌎😅).
+---
 
-## 💻 My Stack
-  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" width="30" height="30"/>](https://github.com/JuanFeA98/Python) [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>](https://github.com/JuanFeA98) [<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/>](https://github.com/JuanFeA98) [<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="numpy" width="30" height="25"/>](https://github.com/JuanFeA98) [<img src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib" width="30" height="30"/>](https://github.com/JuanFeA98/Data_Visualization) [<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="30"/>](https://github.com/JuanFeA98/Data_Visualization) [<img src="https://avatars.githubusercontent.com/u/5997976?v=4" alt="plotly" width="30" height="30"/>](https://github.com/JuanFeA98/Data_Visualization) [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/>](https://github.com/JuanFeA98/MachineLearning) [<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/>](https://github.com/JuanFeA98/Deep_Learning-Pytorch) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="keras" width="30" height="30"/>](https://github.com/JuanFeA98/Deep_Learning) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>](https://github.com/JuanFeA98) [<img src="https://upload.wikimedia.org/wikipedia/en/6/68/Oracle_SQL_Developer_logo.svg" alt="sql_developer" width="30" height="30"/>](https://github.com/JuanFeA98) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Firebase_icon.svg/2048px-Firebase_icon.svg.png" alt="firebase" width="30" height="30"/>](https://github.com/JuanFeA98/Firebase-Python) [<img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="streamlit" width="30" height="25"/>](https://github.com/JuanFeA98/Streamlit) [<img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" alt="Power_BI" width="55" height="30"/>](https://github.com/JuanFeA98) [<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="30" height="30"/>](https://github.com/JuanFeA98/Backend-FastAPI) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" alt="AWS" width="50" height="30"/>](https://github.com/JuanFeA98)
+## 🙋‍♂️ Sobre mí
 
+- 🛒 Actualmente en **Mercado Libre** — ciencia de datos e ingeniería a gran escala
+- 📱 Anteriormente en **WOM** como Data Scientist, enfocado en valor del cliente en telecomunicaciones
+- 🎯 En camino a ser el **mejor científico de datos de Latinoamérica** 🌎
+- 📚 Curioso por naturaleza — aprendo, construyo y comparto
+
+---
+
+## 💻 Tech Stack
+
+**Lenguajes**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Data & Machine Learning**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+**Visualización**
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Backend & Cloud**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanFeDS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFeDS&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JuanFeDS&theme=tokyonight&hide_border=true"/>
+</p>
