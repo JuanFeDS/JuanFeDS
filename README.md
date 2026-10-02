@@ -1,7 +1,8 @@
 <h1 align="center">Hola, soy JuanFe 👋</h1>
 
 <p align="center">
-  <strong>Data Scientist & Engineer @ Mercado Libre</strong>
+  <strong>Data Scientist & Engineer @ Mercado Libre</strong><br/>
+  Construyo modelos, pipelines y apps para que los datos se conviertan en decisiones.
 </p>
 
 <p align="center">
@@ -26,73 +27,50 @@
 
 ## 🙋‍♂️ Sobre mí
 
-- 🛒 Actualmente en **Mercado Libre** — ciencia de datos e ingeniería a gran escala
-- 📱 Anteriormente en **WOM** como Data Scientist, enfocado en valor del cliente en telecomunicaciones
+- 🛒 Actualmente en **Mercado Libre**: ciencia de datos e ingeniería a gran escala
+- 📱 Antes en **WOM** como Data Scientist, enfocado en valor del cliente en telecomunicaciones
 - 🎯 En camino a ser el **mejor científico de datos de Latinoamérica** 🌎
-- 📚 Curioso por naturaleza — aprendo, construyo y comparto
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Proyectos destacados
 
-**Lenguajes**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Data & Machine Learning**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-**IA & Agentes**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4F00?style=for-the-badge&logoColor=white)
-
-**Visualización**
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Apache ECharts](https://img.shields.io/badge/Apache_ECharts-AA344D?style=for-the-badge&logo=apache&logoColor=white)
-
-**Data Engineering**
-
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-**Backend & Cloud**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-**Herramientas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Windsurf](https://img.shields.io/badge/Windsurf-0A0A0A?style=for-the-badge&logoColor=white)
+| Proyecto | Qué es | |
+|---|---|---|
+| 🛸 [**Spaceship Titanic**](https://github.com/JuanFeDS/ML_Projects) | Competencia de Kaggle llevada a pipeline de producción: MLflow, Optuna, stacking y model cards, 21 experimentos | Python · CatBoost · MLflow |
+| 🧰 [**Plantilla DS**](https://github.com/JuanFeDS/Plantilla_DS) | Plantilla cookiecutter para arrancar proyectos de ciencia de datos con capas de datos, modelos, APIs y operaciones | Python · Cookiecutter |
+| 🎨 [**DaVinci**](https://github.com/JuanFeDS/da_vinci) + [**MakeoverMonday**](https://github.com/JuanFeDS/makeover-monday) | App de visualización con más de 12 tipos de gráficos y el laboratorio donde preparo los retos semanales de #MakeoverMonday | TypeScript · Tauri · Python |
+| 📚 [**Knowledge Library**](https://github.com/JuanFeDS/knowledge_library) | Mi base de conocimiento: notas enlazadas con grafo al estilo Obsidian · [demo](https://juanfeds.com/knowledge_library/) | Next.js · FastAPI |
+| 📺 [**Viewlytics**](https://github.com/JuanFeDS/viewlytics) | Organizador de YouTube: suscripciones, pendientes, favoritos y estadísticas · [demo](https://juanfeds.com/viewlytics/) | React · Supabase |
+| 🗣️ [**Polyglow**](https://github.com/JuanFeDS/polyglow) | App para aprender idiomas con sesiones cortas, planes y rachas · [demo](https://juanfeds.com/polyglow/) | React Native · FastAPI |
 
 ---
 
-## 📊 GitHub Stats
+## 🧪 Laboratorios
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanFeDS&theme=tokyonight" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanFeDS&theme=tokyonight" height="165"/>
+Donde estudio y practico, organizado por tema. Cada uno tiene su ruta de crecimiento en los issues.
+
+| Ciencia de datos | Ingeniería | Exploración |
+|---|---|---|
+| [fundamentos-data-science](https://github.com/JuanFeDS/fundamentos-data-science) | [ingenieria-de-software](https://github.com/JuanFeDS/ingenieria-de-software) | [tech-lab](https://github.com/JuanFeDS/tech-lab) |
+| [machine-learning](https://github.com/JuanFeDS/machine-learning) | [MLOps](https://github.com/JuanFeDS/MLOps) | [Economia](https://github.com/JuanFeDS/Economia) |
+| [Time_Series](https://github.com/JuanFeDS/Time_Series) | [javascript-web](https://github.com/JuanFeDS/javascript-web) | [Trading_Python](https://github.com/JuanFeDS/Trading_Python) |
+| [NLP](https://github.com/JuanFeDS/NLP) | [WebScraping](https://github.com/JuanFeDS/WebScraping) | [Kaggle](https://github.com/JuanFeDS/Kaggle_Project) |
+| [agentes-ai](https://github.com/JuanFeDS/agentes-ai) | | [retos técnicos](https://github.com/JuanFeDS/Python_Challenges) |
+
+---
+
+## 💻 Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,postgres,sklearn,pytorch,fastapi,react,astro,supabase,gcp,docker,git" />
 </p>
 
+También: SQL · pandas · LightGBM · CatBoost · MLflow · LangChain · LangGraph · BigQuery · Airflow · Streamlit · Power BI · Claude Code
+
+---
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JuanFeDS&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanFeDS&theme=tokyonight" height="140"/>
+  <img src="https://streak-stats.demolab.com?user=JuanFeDS&theme=tokyonight&hide_border=true" height="140"/>
 </p>
