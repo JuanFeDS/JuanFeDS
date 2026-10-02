@@ -33,19 +33,6 @@
 
 ---
 
-## 🚀 Proyectos destacados
-
-| Proyecto | Qué es | |
-|---|---|---|
-| 🛸 [**Spaceship Titanic**](https://github.com/JuanFeDS/ML_Projects) | Competencia de Kaggle llevada a pipeline de producción: MLflow, Optuna, stacking y model cards, 21 experimentos | Python · CatBoost · MLflow |
-| 🧰 [**Plantilla DS**](https://github.com/JuanFeDS/Plantilla_DS) | Plantilla cookiecutter para arrancar proyectos de ciencia de datos con capas de datos, modelos, APIs y operaciones | Python · Cookiecutter |
-| 🎨 [**DaVinci**](https://github.com/JuanFeDS/da_vinci) + [**MakeoverMonday**](https://github.com/JuanFeDS/makeover-monday) | App de visualización con más de 12 tipos de gráficos y el laboratorio donde preparo los retos semanales de #MakeoverMonday | TypeScript · Tauri · Python |
-| 📚 [**Knowledge Library**](https://github.com/JuanFeDS/knowledge_library) | Mi base de conocimiento: notas enlazadas con grafo al estilo Obsidian · [demo](https://juanfeds.com/knowledge_library/) | Next.js · FastAPI |
-| 📺 [**Viewlytics**](https://github.com/JuanFeDS/viewlytics) | Organizador de YouTube: suscripciones, pendientes, favoritos y estadísticas · [demo](https://juanfeds.com/viewlytics/) | React · Supabase |
-| 🗣️ [**Polyglow**](https://github.com/JuanFeDS/polyglow) | App para aprender idiomas con sesiones cortas, planes y rachas · [demo](https://juanfeds.com/polyglow/) | React Native · FastAPI |
-
----
-
 ## 🧪 Laboratorios
 
 Donde estudio y practico, organizado por tema. Cada uno tiene su ruta de crecimiento en los issues.
