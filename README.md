@@ -37,13 +37,17 @@
 
 Donde estudio y practico, organizado por tema. Cada uno tiene su ruta de crecimiento en los issues.
 
+<div align="center">
+
 | Ciencia de datos | Ingeniería | Exploración |
-|---|---|---|
+|:---:|:---:|:---:|
 | [fundamentos-data-science](https://github.com/JuanFeDS/fundamentos-data-science) | [ingenieria-de-software](https://github.com/JuanFeDS/ingenieria-de-software) | [tech-lab](https://github.com/JuanFeDS/tech-lab) |
 | [machine-learning](https://github.com/JuanFeDS/machine-learning) | [MLOps](https://github.com/JuanFeDS/MLOps) | [Economia](https://github.com/JuanFeDS/Economia) |
 | [Time_Series](https://github.com/JuanFeDS/Time_Series) | [javascript-web](https://github.com/JuanFeDS/javascript-web) | [Trading_Python](https://github.com/JuanFeDS/Trading_Python) |
 | [NLP](https://github.com/JuanFeDS/NLP) | [WebScraping](https://github.com/JuanFeDS/WebScraping) | [Kaggle](https://github.com/JuanFeDS/Kaggle_Project) |
 | [agentes-ai](https://github.com/JuanFeDS/agentes-ai) | | [retos técnicos](https://github.com/JuanFeDS/Python_Challenges) |
+
+</div>
 
 ---
 
