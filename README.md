@@ -62,6 +62,6 @@ También: SQL · pandas · LightGBM · CatBoost · MLflow · LangChain · LangGr
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanFeDS&theme=tokyonight" height="140"/>
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="140"/>
   <img src="https://streak-stats.demolab.com?user=JuanFeDS&theme=tokyonight&hide_border=true" height="140"/>
 </p>
